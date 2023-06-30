@@ -7,8 +7,8 @@
 
 typedef enum TIM_MODO{
     MODO_FROZEN            ,
-    MODO_ACTIVE_ON_MATCH   ,
-    MODO_INACTIVE_ON_MATCH ,
+    MODO_HIGH_ON_MATCH   ,
+    MODO_LOW_ON_MATCH ,
     MODO_TOGGLE_ON_MATCH   ,
     MODO_CERO              ,
     MODO_UNO               ,
